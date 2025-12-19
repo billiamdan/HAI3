@@ -53,6 +53,9 @@
   body {
     @apply bg-background text-foreground overflow-hidden;
   }
+  #root {
+    @apply h-screen w-screen;
+  }
 }
 
 /* Sonner toast styles */
